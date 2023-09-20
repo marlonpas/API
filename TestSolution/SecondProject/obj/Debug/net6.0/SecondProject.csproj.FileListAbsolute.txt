@@ -1,0 +1,12 @@
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\bin\Debug\net6.0\SecondProject.deps.json
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\bin\Debug\net6.0\SecondProject.dll
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\bin\Debug\net6.0\SecondProject.pdb
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\obj\Debug\net6.0\SecondProject.csproj.AssemblyReference.cache
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\obj\Debug\net6.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfoInputs.cache
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfo.cs
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\obj\Debug\net6.0\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\obj\Debug\net6.0\SecondProject.dll
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\obj\Debug\net6.0\refint\SecondProject.dll
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\obj\Debug\net6.0\SecondProject.pdb
+C:\Users\Marlon Pas\Documents\School\API\API\TestSolution\SecondProject\obj\Debug\net6.0\ref\SecondProject.dll

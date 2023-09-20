@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "DateTest/1.0.0": {
+        "dependencies": {
+          "SecondProject": "1.0.0"
+        },
         "runtime": {
           "DateTest.dll": {}
+        }
+      },
+      "SecondProject/1.0.0": {
+        "runtime": {
+          "SecondProject.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DateTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SecondProject/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
